@@ -12,5 +12,18 @@ namespace BomPagador.Controllers
         {
             return View();
         }
+
+        public IActionResult Fornecedores()
+        {
+            return View();
+        }
+        public IActionResult Clientes()
+        {
+            return View();
+        }
+        public IActionResult Faturas()
+        {
+            return View();
+        }
     }
 }
